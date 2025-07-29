@@ -1,2 +1,4 @@
-title: My Notes # Forces this title everywhere
-theme: jekyll-theme-minimal # Adds GitHub's built-in clean style
+title: CheatBase Docs # Overrides repo name in browser tab
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links # Makes [links](file.md) work

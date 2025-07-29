@@ -1,16 +1,27 @@
 ---
-title: CheatBase Docs # This overrides the repo name in the tab
+title: CheatBase Docs
 ---
+
+<div align="center">
 
 # 📚 CheatBase
 
-### Quick access to your notes and snippets
+### Your Personal Knowledge Hub
 
-🔗 **Jump to:**
+</div>
 
-- [Git Commands](git-commands.md)
-- [Docker Guide](docker-guide.md)
+## 🔍 Quick Access
 
----
+- [**Git Commands**](git-commands.md) - Essential Git cheat sheet
+- [**Docker Guide**](docker-guide.md) - Containerization basics
 
-🔄 _Last updated: 2024-07-30_
+## 🛠️ How to Use
+
+1. Click any link above to view notes
+2. Press `T` on GitHub to search files
+3. Clone locally:
+   ```bash
+   git clone https://github.com/aka-ravisharma/cheatbase.git
+   ```
+
+<sub>🔄 Last updated: $(date +'%Y-%m-%d')</sub>
