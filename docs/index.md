@@ -24,4 +24,4 @@ title: CheatBase Docs
    git clone https://github.com/aka-ravisharma/cheatbase.git
    ```
 
-<sub>🔄 Last updated: $(date +'%Y-%m-%d')</sub>
+<sub>🔄 Last updated: 2024-08-01</sub>
