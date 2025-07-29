@@ -1,4 +1,2 @@
-title: CheatBase Docs # Overrides repo name in browser tab
+title: " " # Set to a single space to make it invisible
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-relative-links # Makes [links](file.md) work

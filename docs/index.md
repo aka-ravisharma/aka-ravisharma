@@ -1,14 +1,4 @@
----
-title: CheatBase Docs
----
-
-<div align="center">
-
 # 📚 CheatBase
-
-### Your Personal Knowledge Hub
-
-</div>
 
 ## 🔍 Quick Access
 
