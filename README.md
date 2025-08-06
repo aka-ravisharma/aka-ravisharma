@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Ravi Sharma
+# Ravi Sharma
+
+💻 Open-Source Enthusiast | Python & JavaScript
+
+📦 **[Explore My Work →](https://your-link-here.com)**  
+_A deep dive into my projects, tech stack, and contributions._
 
 - 🔭 **Working on:** [Project]
 - 🌱 **Learning:** [Skill]
