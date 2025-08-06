@@ -1,22 +1,20 @@
-# Ravi Sharma
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=sreda&weight=700&size=27&pause=1000&color=FF6B6B&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Ravi+Sharma;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+</h1>
 
-💻 Open-Source Enthusiast | Python & JavaScript
+  <a href="https://github.com/yourusername?tab=repositories" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Repo_Overview-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="Repo Overview" />
+  </a>
 
-📦 **[Explore My Work →](https://your-link-here.com)**  
-_A deep dive into my projects, tech stack, and contributions._
+### 🚀 About Me
 
-- 🔭 **Working on:** [Project]
-- 🌱 **Learning:** [Skill]
-- 📫 **Contact:** [Email/Twitter/LinkedIn]
-- ⚡ **Fun fact:** [Something interesting]
+```python
+class Developer:
+    def __init__(self):
+        self.name = "[Your Name]"
+        self.role = "[Your Role]"
+        self.passion = "Building solutions that [your mission]"
+        self.fun_fact = "[Something quirky about you]"
 
-### 🛠️ My Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-external link [https://aka-ravisharma.github.io/aka-ravisharma/]
+me = Developer()
+```
