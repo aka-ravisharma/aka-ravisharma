@@ -1,13 +1,15 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Ravi Sharma
 
-- 🔭 **Working on:** [Project]  
-- 🌱 **Learning:** [Skill]  
-- 📫 **Contact:** [Email/Twitter/LinkedIn]  
-- ⚡ **Fun fact:** [Something interesting]  
+- 🔭 **Working on:** [Project]
+- 🌱 **Learning:** [Skill]
+- 📫 **Contact:** [Email/Twitter/LinkedIn]
+- ⚡ **Fun fact:** [Something interesting]
 
-### 🛠️ My Tech Stack  
+### 🛠️ My Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

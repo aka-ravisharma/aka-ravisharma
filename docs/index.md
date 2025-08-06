@@ -1,17 +1,18 @@
-# 📚 CheatBase
+<style>
+#title img {
+    display: inline-block;
+    border-bottom: 5px solid;
+    margin-right: 6px;
+}
 
-## 🔍 Quick Access
 
-- [**Git Commands**](git-commands.md) - Essential Git cheat sheet
-- [**Docker Guide**](docker-guide.md) - Containerization basics
+</style>
 
-## 🛠️ How to Use
+<h1 id="title">
+<img src="../assets/gitHubIcon.svg" width="36" />
+END OF HORIZON
+</h1>
 
-1. Click any link above to view notes
-2. Press `T` on GitHub to search files
-3. Clone locally:
-   ```bash
-   git clone https://github.com/aka-ravisharma/cheatbase.git
-   ```
+<!-- Back Link -->
 
-<sub>🔄 Last updated: 2024-08-01</sub>
+<sub>🔄 Last updated: </sub>
