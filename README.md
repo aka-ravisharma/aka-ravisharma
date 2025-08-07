@@ -4,4 +4,8 @@
 
 ![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=aka-ravisharma&theme=react-dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aka-ravisharma&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
+<div style="width: 100%;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=aka-ravisharma&theme=neon-dark&hide_border=true" alt="GitHub Streak" width="100%">
+  </a>
+</div>
