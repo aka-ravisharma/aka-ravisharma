@@ -8,4 +8,8 @@
 
 ### 🚀 About Me
 
-[💬 Ask Me Anything](https://github.com/aka.ravisharma/aka.ravisharma/issues)
+### 🗣️ Feedback
+
+[✨ Share Your Ideas](https://github.com/aka-ravisharma/aka-ravisharma/issues/aka-ravisharma)
+
+[💡 Suggest an Idea](https://github.com/aka-ravisharma/aka-ravisharma/issues/new?template=suggestions.md)
