@@ -7,20 +7,20 @@
   <table style="border-collapse: collapse; border: none; margin-bottom: 10px; padding: 0;">
     <tr style="padding: 0;">
       <td style="border: none; padding: 0;">
-        <a href="https://github.com/yourusername?tab=repositories">
+        <a href="https://github.com/aka-ravisharma?tab=repositories">
           <img src="https://img.shields.io/badge/📂_Repo_Overview-273438?style=for-the-badge">
         </a>
       </td>
       <td style="border: none; padding: 0; width: 5px;"></td>
       <td style="border: none; padding: 0;">
-            <a href="https://github.com/yourusername/yourusername/issues/new?template=suggestion.md">
+            <a href="https://github.com/aka-ravisharma/aka-ravisharma/issues/new?template=suggestion.md">
           <img src="https://img.shields.io/badge/💡_Add_Suggestion-273438?style=for-the-badge">
         </a>
       </td>
       <td style="border: none; padding: 0; width: 5px;"></td>
       <td style="border: none; padding: 0;">
-        <a href="https://github.com/yourusername?tab=stars">
-          <img src="https://img.shields.io/github/stars/yourusername?color=273438&label=Stars&style=for-the-badge&logo=github">
+        <a href="https://github.com/aka-ravisharma?tab=stars">
+          <img src="https://img.shields.io/github/stars/aka-ravisharma?color=273438&label=Stars&style=for-the-badge&logo=github">
         </a>
       </td>
       <td style="border: none; padding: 0; width: 5px;"></td>
