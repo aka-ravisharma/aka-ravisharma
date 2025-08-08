@@ -2,23 +2,58 @@
 <img src="https://readme-typing-svg.demolab.com?font=sreda&weight=700&size=27&pause=1000&color=FF6B6B&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Ravi+Sharma;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </h1>
 
+<div align="center">
+
+<!-- GitHub-Compatible Interactive Panel -->
 <div style="
-  background: rgba(97, 218, 251, 0.4);
-  border: 2px solid #273438ff;
+  background: rgba(97, 218, 251, 0.1);
+  border: 2px solid #273438;
   border-radius: 10px;
   padding: 15px;
   margin: 20px 0;
-  text-align: left;
+  text-align: center;
 ">
-  <h3 style="color: #182c31ff; margin-top: 0">🚀 Quick Stats</h3>
-  <ul style="list-style-type: none; padding-left: 10px">
-    <li style="display:inline-block; margin-right: 20px"><a>repo overview</a></li>
-    <li style="display:inline-block; margin-right: 20px"><a>repo overview</a></li>
-    <li style="display:inline-block; margin-right: 20px"><a>repo overview</a></li>
-    <li style="display:inline-block; margin-right: 20px"><a>repo overview</a></li>
-  </ul>
+  <h3 style="color: #182c31; margin-top: 0">🚀 Quick Stats</h3>
+  
+  <!-- GitHub-friendly "buttons" -->
+  [![Repositories](https://img.shields.io/badge/REPO_OVERVIEW-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=repositories)
+  [![Stars](https://img.shields.io/badge/MY_STARS-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=stars)
+  [![Gists](https://img.shields.io/badge/MY_GISTS-273438?style=for-the-badge&logo=github)](https://gist.github.com/yourusername)
+  [![Activity](https://img.shields.io/badge/MY_ACTIVITY-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=overview&from=2023-01-01)
 </div>
 
+<!-- Alternative with Badges -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/yourusername?tab=repositories">
+        <img src="https://img.shields.io/badge/Repos-273438?logo=github&logoColor=white" width="80">
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/yourusername?tab=stars">
+        <img src="https://img.shields.io/badge/Stars-273438?logo=github&logoColor=white" width="80">
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://gist.github.com/yourusername">
+        <img src="https://img.shields.io/badge/Gists-273438?logo=github&logoColor=white" width="80">
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/yourusername?tab=overview">
+        <img src="https://img.shields.io/badge/Activity-273438?logo=github&logoColor=white" width="80">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Overview</td>
+    <td align="center">Stars</td>
+    <td align="center">Gists</td>
+    <td align="center">Activity</td>
+  </tr>
+</table>
+</div>
 ![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=aka-ravisharma&theme=react-dark&hide_border=true)
 
 <div style="width: 100%;">
