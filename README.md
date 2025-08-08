@@ -13,10 +13,10 @@
   <h3 style="color: #182c31; margin-top: 0">🚀 Quick Stats</h3>
   
   <!-- GitHub-friendly "buttons" -->
-  [![Repositories](https://img.shields.io/badge/REPO_OVERVIEW-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=repositories)
-  [![Stars](https://img.shields.io/badge/MY_STARS-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=stars)
-  [![Gists](https://img.shields.io/badge/MY_GISTS-273438?style=for-the-badge&logo=github)](https://gist.github.com/yourusername)
-  [![Activity](https://img.shields.io/badge/MY_ACTIVITY-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=overview&from=2023-01-01)
+  [![Repositories](https://img.shields.io/badge/REPO_OVERVIEW-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=repositories)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Stars](https://img.shields.io/badge/MY_STARS-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=stars)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gists](https://img.shields.io/badge/MY_GISTS-273438?style=for-the-badge&logo=github)](https://gist.github.com/yourusername)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Activity](https://img.shields.io/badge/MY_ACTIVITY-273438?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=overview&from=2023-01-01)
 </div>
 
 ![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=aka-ravisharma&theme=react-dark&hide_border=true)
