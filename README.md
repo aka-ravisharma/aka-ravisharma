@@ -13,7 +13,7 @@
       </td>
       <td style="border: none; padding: 0; width: 5px;"></td>
       <td style="border: none; padding: 0;">
-            <a href="https://github.com/aka-ravisharma/aka-ravisharma/issues/new?template=suggestion.md">
+            <a href="https://github.com/aka-ravisharma/aka-ravisharma/issues/new?template=suggestions.md">
           <img src="https://img.shields.io/badge/💡_Add_Suggestion-273438?style=for-the-badge">
         </a>
       </td>
