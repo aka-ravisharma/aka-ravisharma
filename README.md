@@ -67,4 +67,6 @@ const profile = {
 };
 ```
 
-[Leaning Notes]{https://aka-ravisharma.github.io/aka-ravisharma/#}
+[Leaning Notes](https://aka-ravisharma.github.io/aka-ravisharma/#)
+
+[project-index](https://aka-ravisharma.github.io/learning-projects/)
